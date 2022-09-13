@@ -2,14 +2,14 @@
 
 Naturized is a Discord Theme inspired by ClearVision and is built off the core of a stale branch.
 
-Pyrite is built for [Canary](https://canary.discord.com/) so all class syntax is for that. Due to the differences between Canary, PTB and Stable as well as Discord Experiments you might not have an area themed. Speak up for it on the [Support Server](https://discord.gg/W976FZS) and someone will fix it up for you.
+Naturized is built for [Canary](https://canary.discord.com/) so all class syntax is for that. Due to the differences between Canary, PTB and Stable as well as Discord Experiments you might not have an area themed. Speak up for it on the [Support Server](https://discord.gg/W976FZS) and someone will fix it up for you.
 
 ### Previews:
 
 *The below screenshots may not be up to date as Discord changes things constantly. Both the Border Radius/Radical Status and the User Modal Layout addons were enabled.*
 
-![profile](https://leafyluigi.github.io/images/pyrite_profile.png "Profile")
-![main](https://leafyluigi.github.io/images/pyrite_main_window.png "Main Window")
+![profile]
+![main]
 
 Default Images & Licensing:
 
